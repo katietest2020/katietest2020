@@ -177,7 +177,7 @@
     "scss-inline-imports": "1.0.6",
     "scss-parser": "1.0.3",
     "semver": "5.5.1",
-    "simple-git": "1.107.0",
+    "simple-git": "3.3.0",
     "storybook-addon-rtl": "0.2.2",
     "strip-indent": "2.0.0",
     "style-loader": "1.1.3",
